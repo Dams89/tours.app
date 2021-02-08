@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dams89/tours.app.git/static/css/main.90c5d3f0.chunk.css",
+    "main.js": "/Dams89/tours.app.git/static/js/main.1a5861f6.chunk.js",
+    "main.js.map": "/Dams89/tours.app.git/static/js/main.1a5861f6.chunk.js.map",
+    "runtime-main.js": "/Dams89/tours.app.git/static/js/runtime-main.017a788d.js",
+    "runtime-main.js.map": "/Dams89/tours.app.git/static/js/runtime-main.017a788d.js.map",
+    "static/js/2.ff6c6ff6.chunk.js": "/Dams89/tours.app.git/static/js/2.ff6c6ff6.chunk.js",
+    "static/js/2.ff6c6ff6.chunk.js.map": "/Dams89/tours.app.git/static/js/2.ff6c6ff6.chunk.js.map",
+    "static/js/3.1a6d9c64.chunk.js": "/Dams89/tours.app.git/static/js/3.1a6d9c64.chunk.js",
+    "static/js/3.1a6d9c64.chunk.js.map": "/Dams89/tours.app.git/static/js/3.1a6d9c64.chunk.js.map",
+    "index.html": "/Dams89/tours.app.git/index.html",
+    "static/css/main.90c5d3f0.chunk.css.map": "/Dams89/tours.app.git/static/css/main.90c5d3f0.chunk.css.map",
+    "static/js/2.ff6c6ff6.chunk.js.LICENSE.txt": "/Dams89/tours.app.git/static/js/2.ff6c6ff6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.017a788d.js",
+    "static/js/2.ff6c6ff6.chunk.js",
+    "static/css/main.90c5d3f0.chunk.css",
+    "static/js/main.1a5861f6.chunk.js"
+  ]
+}
